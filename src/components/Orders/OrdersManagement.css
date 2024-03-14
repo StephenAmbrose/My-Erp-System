@@ -1,0 +1,15 @@
+/* OrdersManagement.css */
+.orders-management-container {
+  padding: 20px;
+}
+
+.orders-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}
+h1
+{
+  font-size: x-large;
+  position: relative;bottom: 10px;
+}

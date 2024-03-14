@@ -1,0 +1,118 @@
+/* Dashboard.css */
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+  }
+  
+  .chart-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .chart-container {
+    width: 48%;
+    padding: 20px;
+    background-color: #f4f4f4; 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  .chart-container:hover {
+    transform: translateY(-5px);
+  }
+  
+  .chart {
+    max-width: 100%;
+  }
+  
+  .chart-info {
+    margin-top: 10px;
+    color: #3e0707;
+  }
+  
+  .chart-info p {
+    font-weight: bold; /* Added boldness to text */
+    transition: color 0.3s ease; /* Added transition on hover */
+    font-size: 25px;
+    font-style: inherit;
+  }
+  
+  .chart-info p:hover {
+    color: #555; /* Change text color on hover */
+  }
+  
+  .additional-info {
+    flex-basis: 100%;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .quote {
+    font-style: italic;
+    color: #888;
+    animation: fadeIn 1s ease;
+    font-size: 18px; /* Increased font size */
+    margin-bottom: 15px; /* Adjusted margin */
+  }
+  
+  .quote:hover {
+    color: #555;
+  }
+  
+  /* Advanced CSS */
+  .chart-row {
+    gap: 20px;
+  }
+  
+  .chart-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .chart-container h2 {
+    margin-bottom: 15px; /* Adjusted margin */
+    color: #333;
+    font-size: 22px; /* Increased font size */
+  }
+  
+  .additional-info h2 {
+    font-weight: bold; /* Added boldness to heading */
+    margin-bottom: 15px; /* Adjusted margin */
+    font-size: 24px; /* Increased font size */
+  }
+  
+  .additional-info blockquote {
+    font-weight: bold; /* Added boldness to quote */
+    margin-bottom: 15px; /* Adjusted margin */
+    color: #540606;
+    font-size: 20px; /* Increased font size */
+  }
+  
+  .additional-info blockquote:hover {
+    color: #635d5d; /* Change text color on hover */
+  }
+  
+  .additional-info p {
+    transition: color 0.3s ease; /* Added transition on hover */
+    font-size: 18px; /* Increased font size */
+  }
+  
+  .additional-info p:hover {
+    color: #555; /* Change text color on hover */
+  }
+  
+  /* Animations */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  

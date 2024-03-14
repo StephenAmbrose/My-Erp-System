@@ -1,0 +1,88 @@
+.orders-calendar-container {
+    padding: 20px;
+    position: relative;bottom: 40px;
+  }
+  #orderheading
+  {
+   margin: 20px;
+   position: relative;bottom: 5px;
+  }
+  .calendar-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .calendar-header h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 20px;
+    color: #333;
+  }
+  
+  .calendar-header button {
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    transition: color 0.3s ease;
+    color: #666;
+  }
+  
+  .calendar-header button:hover {
+    color: #007bff;
+  }
+  
+  .order-list {
+    margin-top: 20px;
+  }
+  
+  .order-list h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .order-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .order-list li {
+    margin-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #666;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .order-list li:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .order-info {
+    display: block;
+    font-weight: bold;
+  }
+  
+  /* Animation for order list */
+  .order-list li {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+  }
+  
+  .order-list li.show {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
