@@ -49,7 +49,7 @@ React Router DOM provides components like BrowserRouter, Routes, Route,Switch an
 ```bash
   npm install react-router-dom
 ```
-## http://localhost:5173/
+## http://localhost:5173/ - Server Running
 
 ## Dependencies 
 The following dependencies are used in this project:
@@ -138,7 +138,7 @@ To implement the Orders Calendar View, follow these steps:
 - Utilized React and the react-big-calendar library to create the interactive calendar component.
 - Integrated moment.js for efficient date manipulation and formatting within the calendar.
 
-## Screenshots for OrdersViewCalendars
+## Screenshots for OrdersCalendarsView
 
 ![Screenshot (579)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/b11f348f-1985-4eb4-8765-8ed3029da670)
 ![Screenshot (580)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/3b02a8d3-6d1e-4981-88a0-d757b8dd44c4)
