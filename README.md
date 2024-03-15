@@ -179,7 +179,7 @@ As an aspiring software engineer, I am eager to secure an entry-level position w
    
  - https://www.instagram.com/stephen._ambrose?igsh=aXZmdTRrMmd6aHRp
 
-   ![social-media](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/ecfb16b8-4c16-46c2-b071-3bc683a0fc45)    
+   ![14417460](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/0c49e3c6-5211-4ad9-8162-150b027ae35e)   
 
 - https://x.com/dir_stephen?t=_wMT6Es_3ef4zlO3G_7pEQ&s=08
 
