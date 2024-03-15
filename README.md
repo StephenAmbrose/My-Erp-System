@@ -75,17 +75,17 @@ The following dependencies are used in this project:
 ```bash
    npm install @fortawesome/free-solid-svg-icons
 ```
-This dependency contains a collection of free solid style icons provided by FontAwesome.
+- This dependency contains a collection of free solid style icons provided by FontAwesome.
 
-The navigation bar serves as a central hub for accessing key sections of the ERP system:
+- The navigation bar serves as a central hub for accessing key sections of the ERP system:
 
-Dashboard: Provides an overview of financial metrics, sales data, and order status.
+- Dashboard: Provides an overview of financial metrics, sales data, and order status.
 
-Products Management: Allows administrators to add, edit, and manage product information.
+- Products Management: Allows administrators to add, edit, and manage product information.
 
-Orders Management: Facilitates the management of customer orders, including processing, tracking, and fulfillment.
+- Orders Management: Facilitates the management of customer orders, including processing, tracking, and fulfillment.
 
-Orders Calendar View: Displays orders on their expected delivery dates and allows users to view all orders due for delivery on a selected date.
+- Orders Calendar View: Displays orders on their expected delivery dates and allows users to view all orders due for delivery on a selected date.
 
 ## Dashboard : Provides an overview of key metrics and data.
 To set up the dashboard component and create charts, we need to install the react-chartjs-2 library. Follow the steps below:
