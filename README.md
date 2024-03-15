@@ -107,10 +107,10 @@ Steps:
 - Implement responsive design for various devices.
 - Apply appropriate styling for visual appeal.
 ## Screenshots for Products
-![Screenshot (545)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/8245fc72-aff1-4a6c-9c6b-93861d86cf7f)
-![Screenshot (546)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/c5aeb14e-f834-4b12-9f82-d190c033fbde)
-![Screenshot (547)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/9ff1981b-cedf-47b6-b872-afe0b67a2672)
 
+![Screenshot (574)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/50f9dc68-4305-428f-be8d-b696cc28e54d)
+![Screenshot (575)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/fbdc7e2f-bb64-4d27-bc75-690bca867325)
+![Screenshot (576)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/74683c10-9d57-49c9-ad2b-8fcb621bf3f3)
 ## OrdersManagement : Allows users to manage orders, view details, and track their status.
 Steps:
 - Display a list of orders with essential details: order ID, customer name, order date, and status, utilizing mock data.
@@ -119,6 +119,7 @@ Steps:
 - Enable users to delete orders if necessary, with confirmation prompts to prevent accidental deletion.
 - Ensure a user-friendly interface for managing orders, including clear navigation and intuitive controls.
 ## Screenshots for OrdersManagement
+
 ![Screenshot (548)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/29b33ad0-6ad4-424d-84b1-52244add7b5b)
 
 ## OrdersCalendarsView : Allows users to view orders on their expected delivery dates and click on a date to view all orders due for delivery that day.
