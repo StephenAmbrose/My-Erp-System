@@ -65,11 +65,17 @@ The following dependencies are used in this project:
 - Moment.js: A JavaScript date library for parsing, validating, manipulating, and formatting dates.
 - React DOM: The entry point to the React library for the web.
 - Charts.js: A JavaScript charting library for creating interactive and responsive charts.
+- FontAwesome: This library allows you to easily use FontAwesome icons as React components in your project.
 
 ```bash
-   npm install react react-dom react-big-calendar moment react-chartjs-2
+   npm install react react-dom react-big-calendar moment react-chartjs-2 @fortawesome/free-solid-svg-icons
 ```
 ## Landing Page : Provides navigation to different sections of the application.
+
+```bash
+   npm install @fortawesome/free-solid-svg-icons
+```
+This dependency contains a collection of free solid style icons provided by FontAwesome.
 
 The navigation bar serves as a central hub for accessing key sections of the ERP system:
 
