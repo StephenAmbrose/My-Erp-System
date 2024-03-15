@@ -175,22 +175,20 @@ As an aspiring software engineer, I am eager to secure an entry-level position w
 
 ## Contact Me!
 
- ![3621435](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/582c20ce-364c-4f05-a768-e24f67aec1f4)   
- 
+![3621435](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/5a8a7a52-1eef-4c05-aded-bb12a6230456)
+
+   
  - https://www.instagram.com/stephen._ambrose?igsh=aXZmdTRrMmd6aHRp
 
 
-    ![img icons8](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/9035cd79-0dfe-48ee-abb8-e49f4def4c56)           
-
+     ![img icons8](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/5651e84c-0a9d-4e8b-a977-b58982a45694)
 
 
 - https://x.com/dir_stephen?t=_wMT6Es_3ef4zlO3G_7pEQ&s=08
 
 
-
-![4423676](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/84b55a4f-eeba-4577-92fc-c83fe19df40b)
+![3128329](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/466338cc-5483-4f6b-9693-14b027ad51c7)
 
 
  - https://www.linkedin.com/in/stephen-a-155497234/
-"# My-Erp-System" 
-"# My-Erp-System" 
+
