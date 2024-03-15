@@ -175,8 +175,8 @@ The site is designed with responsive layouts and styles, ensuring optimal viewin
 ## 7. Animations and Styling:
 The site incorporates animations and styling enhancements to improve user engagement and visual appeal. Buttons and navigation elements feature colorful designs and hover effects, enhancing the overall user experience.
 
-## 8. Bottom Navigation: 
-A bottom navigation bar provides quick access to essential features like returning to the homepage, accessing analytics, managing orders, and adjusting settings. It remains fixed at the bottom of the screen for easy access.(Without Backend Part)
+## 8. Bottom Navigation (Without Backend part): 
+A bottom navigation bar provides quick access to essential features like returning to the homepage, accessing analytics, managing orders, and adjusting settings. It remains fixed at the bottom of the screen for easy access.
 
 Overall, the ERP site offers a comprehensive solution for businesses to manage their operations efficiently, track key metrics, and make informed decisions to drive growth and success. With its intuitive interface, robust features, and responsive design, it caters to the diverse needs of modern enterprises.
 
