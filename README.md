@@ -94,9 +94,10 @@ The Sales Trend section presents a visual representation of sales performance ov
 ## Order Status :
 The Order Status section provides an overview of the current status of orders within the system. It helps users monitor order fulfillment, track order progress, and identify any issues or delays in the order processing workflow.
 ## Screenshots for Dashboard
-![Screenshot (542)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/69aeb7ec-c07e-495f-8e5b-f160d0a5949f)
-![Screenshot (543)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/2f47ad22-799e-4c3d-be09-ef659caf39fd)
-![Screenshot (544)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/4619ada7-2945-4930-bdb0-52a58f44897b)
+
+![Screenshot (570)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/6c7c1c60-676a-4120-949b-ddf5c8ea6cc1)
+![Screenshot (571)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/e92a1ad6-3e20-467d-9ae3-e67e532fb1fe)
+![Screenshot (573)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/36e87630-de75-4b5c-ade4-d1a2f8afe6c8)
 
 ## ProductsManagement : Present a list of products with details such as name, category, price, and stock quantity,
 Steps:
