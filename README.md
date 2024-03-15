@@ -120,7 +120,8 @@ Steps:
 - Ensure a user-friendly interface for managing orders, including clear navigation and intuitive controls.
 ## Screenshots for OrdersManagement
 
-![Screenshot (548)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/29b33ad0-6ad4-424d-84b1-52244add7b5b)
+![Screenshot (578)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/7540e70f-4ecd-4955-b604-fafd1adbb106)
+![Screenshot (577)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/1c46cf63-cee4-43d4-b7a1-8312bb5c641d)
 
 ## OrdersCalendarsView : Allows users to view orders on their expected delivery dates and click on a date to view all orders due for delivery that day.
 Steps:
