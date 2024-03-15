@@ -4,7 +4,7 @@ Project Overview:
 The goal of this project is to create a simplified interface for an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. The system will consist of the following pages:
 
 ## ERP System
-## Overview(No Backend part is required)
+## Overview (No Backend part is Added)
 This is an ERP (Enterprise Resource Planning) system built with React and Vite. It includes features such as a dashboard, calendar view for managing orders, navbar for navigation, orders management, and products management.
 
 ## Working flow of the project
