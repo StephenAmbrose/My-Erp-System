@@ -13,14 +13,19 @@ This is an ERP (Enterprise Resource Planning) system built with React and Vite. 
 ![1000149580-01 (1)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/1dc574ec-6bce-4860-b898-f12a48b8514f)
 
 ## Features
-- Navbar: Provides navigation to different sections of the application.
-- Dashboard: Provides an overview of key metrics and data.
-- Products Management: Present a list of products with details such as name, category, price, and stock quantity, using mock data.
-Enable functionalities to add, edit, and delete products.
-- Orders Management: Allows users to manage orders, view details, and track their status.
-- Calendar View: Allows users to view orders on their expected delivery dates and click on a date to view all orders due for delivery that day.
+
+- Dashboard: Provides an overview of key metrics such as financial overview, sales by category, sales trend, and order status.
+
+- Navbar: Navigation bar for easy access to different sections of the application.
+
+- Products Management: Allows users to view, add, edit, and delete products. Displays details such as name, category, price, and stock quantity.
+
+- Orders Management: Enables users to view, update, and delete orders. Shows order details including order ID, customer name, order date, and status.
+
+- Orders Calendar View: Presents a calendar interface displaying orders based on their expected delivery dates. Allows users to click on a date to view orders due for delivery that day.
 
 ## Deployment
+
 To deploy this project run
    ```bash
     npm create vite@latest
@@ -28,6 +33,7 @@ To deploy this project run
 Give the project name and choose React as the framework.
 
 ## Run Locally
+
 Go to the project directory
 
 ```bash
@@ -147,24 +153,6 @@ To implement the Orders Calendar View, follow these steps:
 ## Summary: ERP System
 Overview
 This project is an ERP (Enterprise Resource Planning) system developed using React.js. It provides various features for managing orders, products, and a dashboard for monitoring key metrics.
-
-## Features
-- Dashboard: Provides an overview of key metrics such as financial overview, sales by category, sales trend, and order status.
-
-- Navbar: Navigation bar for easy access to different sections of the application.
-
-- Products Management: Allows users to view, add, edit, and delete products. Displays details such as name, category, price, and stock quantity.
-
-- Orders Management: Enables users to view, update, and delete orders. Shows order details including order ID, customer name, order date, and status.
-
-- Orders Calendar View: Presents a calendar interface displaying orders based on their expected delivery dates. Allows users to click on a date to view orders due for delivery that day.
-
-## Technologies Used
-- React.js: Front-end library for building user interfaces.
-- React Router DOM: Library for handling routing in React applications.
-- React Big Calendar: Library for displaying and managing calendar views.
-- Chart.js: Library for creating interactive charts and graphs.
-- Moment.js: Library for parsing, validating, manipulating, and formatting dates.
 
 ## Conclusion 
 This ERP system offers a comprehensive solution for managing orders and products, along with insightful dashboard metrics and a user-friendly interface. It can be further extended and customized to meet specific business requirements.
