@@ -7,7 +7,7 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
 ## Overview (No Backend part is Added)
 This is an ERP (Enterprise Resource Planning) system built with React and Vite. It includes features such as a dashboard, calendar view for managing orders, navbar for navigation, orders management, and products management.
 
-## Working flow of the project
+## Schema of the project
 
 ![1000149581-01 (1)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/e546727a-7d29-4f11-8b1d-2a8eeb2130c4)
 ![1000149580-01 (1)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/1dc574ec-6bce-4860-b898-f12a48b8514f)
