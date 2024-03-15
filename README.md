@@ -187,7 +187,7 @@ As an aspiring software engineer, I am eager to secure an entry-level position w
 - https://x.com/dir_stephen?t=_wMT6Es_3ef4zlO3G_7pEQ&s=08
 
 
- ![3128329](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/466338cc-5483-4f6b-9693-14b027ad51c7)
+ ![4423676](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/491b934b-2ced-4f75-91a0-fd3819a4583e)
 
 
  - https://www.linkedin.com/in/stephen-a-155497234/
