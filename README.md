@@ -1,12 +1,15 @@
-
 ## MY-ERP-SYSTEM
 Project Overview:
 
 The goal of this project is to create a simplified interface for an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. The system will consist of the following pages:
 
 ## ERP System
-## Overview
+## Overview(No Backend part is required)
 This is an ERP (Enterprise Resource Planning) system built with React and Vite. It includes features such as a dashboard, calendar view for managing orders, navbar for navigation, orders management, and products management.
+
+## Working flow of the project
+![1000149581-01](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/592c4ac0-d436-4863-9de9-1ec67a356e7c)
+![1000149580-01](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/1572b8fd-7cd1-41bd-9645-c48e85c29dc2)
 
 ## Features
 - Navbar: Provides navigation to different sections of the application.
@@ -46,10 +49,6 @@ React Router DOM provides components like BrowserRouter, Routes, Route,Switch an
   npm install react-router-dom
 ```
 ## http://localhost:5173/
-Working flow of the project
-![1000149581-01](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/592c4ac0-d436-4863-9de9-1ec67a356e7c)
-![1000149580-01](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/1572b8fd-7cd1-41bd-9645-c48e85c29dc2)
-
 
 ## Dependencies 
 The following dependencies are used in this project:
