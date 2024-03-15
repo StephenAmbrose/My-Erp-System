@@ -52,6 +52,12 @@ const OrdersManagement = () => {
           />
         ))}
       </div>
+      <div className="bottom-nav">
+        <button className="nav-btn">Home</button>
+        <button className="nav-btn">Analytics</button>
+        <button className="nav-btn">Orders</button>
+        <button className="nav-btn">Settings</button>
+      </div>
     </div>
   );
 };

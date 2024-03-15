@@ -13,13 +13,13 @@
     margin-bottom: 20px;
   }
   
-  .chart-container {
-    width: 48%;
-    padding: 20px;
-    background-color: #f4f4f4; 
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
+    .chart-container {
+      width: 48%;
+      padding: 20px;
+      /* background-color: #f4f4f4;  */
+      /* border-radius: 10px; */
+      /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+      transition: all 0.3s ease;
   }
   
   .chart-container:hover {
@@ -29,17 +29,25 @@
   .chart {
     max-width: 100%;
   }
-  
-  .chart-info {
+  .chartpie
+  {
+    position: relative;bottom: 60px;
+  }
+
+.chart-info {
     margin-top: 10px;
     color: #3e0707;
+  }
+ .piechart
+  {
+    position: relative;bottom: 90px;
   }
   
   .chart-info p {
     font-weight: bold; /* Added boldness to text */
     transition: color 0.3s ease; /* Added transition on hover */
     font-size: 25px;
-    font-style: inherit;
+    font-style: italic;
   }
   
   .chart-info p:hover {
@@ -91,6 +99,7 @@
     margin-bottom: 15px; /* Adjusted margin */
     color: #540606;
     font-size: 20px; /* Increased font size */
+    font-style: italic;
   }
   
   .additional-info blockquote:hover {
@@ -105,6 +114,82 @@
   .additional-info p:hover {
     color: #555; /* Change text color on hover */
   }
+  .bottom-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    animation: slide-up 0.5s ease forwards;
+  }
+  
+  .nav-btn {
+    padding: 8px 16px;
+    background-color: #28a745; /* Green color */
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    animation: pulse 1s infinite alternate; /* Animation */
+  }
+  
+  .nav-btn:hover {
+    background-color: #218838; /* Darker green color on hover */
+  }
+  
+  /* Different button colors */
+  .nav-btn:nth-child(2) {
+    background-color: #007bff; /* Blue color */
+  }
+  
+  .nav-btn:nth-child(3) {
+    background-color: #ffc107; /* Yellow color */
+  }
+  
+  .nav-btn:nth-child(4) {
+    background-color: #dc3545; /* Red color */
+  }
+  
+  /* Animation */
+  @keyframes slide-up {
+    from {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  @keyframes pulse {
+    from {
+      transform: scale(1);
+    }
+    to {
+      transform: scale(1.1);
+    }
+  }
+  
+  
+  /* Animation */
+  @keyframes slide-up {
+    from {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
   
   /* Animations */
   @keyframes fadeIn {

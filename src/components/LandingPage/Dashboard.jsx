@@ -116,17 +116,23 @@ const Dashboard = () => {
             <p>"I will tell you how to become rich. Close the doors. Be fearful when others are greedy. Be greedy when others are fearful." — Warren Buffett</p>
             <br />
             <p>Play by the rules, but be ferocious!</p>
+            <br />
+            <p>Unlocking Your Financial Potential. Smart Solutions for Brighter Finances</p>
+            <br />
+            <p>Finance with a Twist of Innovation.</p>
           </div>
         </div>
         <div className="chart-container">
           <h2>Sales by Category</h2>
-          <div className="chart">
+          <div className="chartpie">
             <Pie data={pieChartData} options={pieChartOptions} />
           </div>
-          <div className="chart-info">
+          <div className="chart-info piechart">
             <p>Sales distribution across different product categories</p>
             <br/>
             <p>Electronics, Clothing, Books, and Furniture are the categories.</p>
+            <br />
+            <p>Manage the Sales !</p>
           </div>
         </div>
       </div>
@@ -162,7 +168,7 @@ const Dashboard = () => {
       <div className="additional-info">
         <h2>We Made By You!</h2>
         <blockquote className="quote">
-          "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+        "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
         </blockquote>
         <blockquote>
         "If you really look closely, most overnight successes took a long time." – Steve Jobs
@@ -170,7 +176,15 @@ const Dashboard = () => {
         <blockquote>
         "There's no shortage of remarkable ideas, what's missing is the will to execute them." – Seth Godin
         </blockquote>
-        <p></p>
+        <blockquote>
+        "To be successful, you have to have your heart in your business, and your business in your heart." – Thomas Watson, Sr.
+        </blockquote>
+      </div>
+      <div className="bottom-nav">
+        <button className="nav-btn">Home</button>
+        <button className="nav-btn">Analytics</button>
+        <button className="nav-btn">Settings</button>
+        <button className="nav-btn">More</button>
       </div>
     </div>
   );
