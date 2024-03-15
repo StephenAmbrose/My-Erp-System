@@ -8,6 +8,7 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
 This is an ERP (Enterprise Resource Planning) system built with React and Vite. It includes features such as a dashboard, calendar view for managing orders, navbar for navigation, orders management, and products management.
 
 ## Working flow of the project
+
 ![1000149581-01 (1)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/e546727a-7d29-4f11-8b1d-2a8eeb2130c4)
 ![1000149580-01 (1)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/1dc574ec-6bce-4860-b898-f12a48b8514f)
 
@@ -111,6 +112,7 @@ Steps:
 ![Screenshot (574)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/50f9dc68-4305-428f-be8d-b696cc28e54d)
 ![Screenshot (575)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/fbdc7e2f-bb64-4d27-bc75-690bca867325)
 ![Screenshot (576)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/74683c10-9d57-49c9-ad2b-8fcb621bf3f3)
+
 ## OrdersManagement : Allows users to manage orders, view details, and track their status.
 Steps:
 - Display a list of orders with essential details: order ID, customer name, order date, and status, utilizing mock data.
@@ -118,6 +120,7 @@ Steps:
 - Implement options to update the order status, such as marking orders as shipped or delivered.
 - Enable users to delete orders if necessary, with confirmation prompts to prevent accidental deletion.
 - Ensure a user-friendly interface for managing orders, including clear navigation and intuitive controls.
+  
 ## Screenshots for OrdersManagement
 
 ![Screenshot (578)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/7540e70f-4ecd-4955-b604-fafd1adbb106)
@@ -136,8 +139,9 @@ To implement the Orders Calendar View, follow these steps:
 - Integrated moment.js for efficient date manipulation and formatting within the calendar.
 
 ## Screenshots for OrdersViewCalendars
-![Screenshot (549)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/f994e6da-d071-480c-9c9f-fae1fbcb4181)
-![Screenshot (550)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/51dd5fe8-6a25-4b74-992d-7e87931335f5)
+
+![Screenshot (579)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/b11f348f-1985-4eb4-8765-8ed3029da670)
+![Screenshot (580)](https://github.com/StephenAmbrose/My-Erp-System/assets/111897588/3b02a8d3-6d1e-4981-88a0-d757b8dd44c4)
 
 
 ## Summary: ERP System
